@@ -1,0 +1,56 @@
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 20px;
+}
+h1 {
+  color: #0c0c0c;
+  text-align: center;
+}
+.section {
+  margin-bottom: 20px;
+}
+.job-title {
+  font-weight: bold;
+}
+.date-period {
+  font-style: italic;
+}
+ul {
+  list-style-type: none; 
+  padding: 0; 
+  margin: 0; 
+  text-align: center;
+}
+
+li {
+  display: inline;
+  margin: 0 15px; 
+}
+
+a {
+  text-decoration: none; 
+  color: rgb(13, 13, 14); 
+  font-size: 16px;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+#img {
+  display: flex;
+  justify-content: center;
+}
+
+html {
+  background-color: #f4f6f8;
+}
+
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: #16bbbb;
+  padding: 0 250px 250px 250px;
+  border: 5px solid rgb(0, 0, 0);
+}
